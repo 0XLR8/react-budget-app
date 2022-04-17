@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "id": 2,
+      "title": "expense 2",
+      "amount": 324,
+      "date": "2022-04-21"
+    },
+    {
+      "id": 3,
+      "title": "expense 3",
+      "amount": 500,
+      "date": "2022-03-09"
+    },
+    {
+      "id": 4,
+      "title": "epxnese 4",
+      "amount": 1000,
+      "date": "2022-09-15"
+    },
+    {
+      "id": 5,
+      "title": "expense 1",
+      "amount": 200,
+      "date": "2021-05-12"
+    }
+  ]
+}
